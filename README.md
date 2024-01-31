@@ -18,7 +18,6 @@ Berikut adalah struktur folder dari proyek **Seru_mob_app**:
     │   │  ├── service
     │   │  ├── utils
     │   │  └── widgets
-    │   │    
     │   └── main.dart          
     └── ...
 
